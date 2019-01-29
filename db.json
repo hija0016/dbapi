@@ -35,22 +35,4 @@
     "phone": "+1 (941) 431-2409",
     "address": "988 Crown Street, Boykin, Utah, 5897"
   },
-  {
-    "_id": "5c4fd4f3f033626395eed840",
-    "picture": "http://placehold.it/32x32",
-    "name": "Ella Owens",
-    "gender": "female",
-    "email": "ellaowens@amtap.com",
-    "phone": "+1 (875) 537-3440",
-    "address": "411 Hubbard Street, Goochland, Nevada, 7725"
-  },
-  {
-    "_id": "5c4fd4f3d67a08b8b7633ca6",
-    "picture": "http://placehold.it/32x32",
-    "name": "Peggy Bishop",
-    "gender": "female",
-    "email": "peggybishop@amtap.com",
-    "phone": "+1 (941) 551-2625",
-    "address": "998 Crawford Avenue, Troy, Arizona, 7386"
-  }
 ]
