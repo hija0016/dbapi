@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "5c4fd4f31c1b0f789f80822f",
+    "picture": "http://placehold.it/32x32",
+    "name": "Long Bullock",
+    "gender": "male",
+    "email": "longbullock@amtap.com",
+    "phone": "+1 (840) 573-3384",
+    "address": "907 Joralemon Street, Hayden, Kansas, 2925"
+  },
+  {
+    "_id": "5c4fd4f3170ab4ad13c544a8",
+    "picture": "http://placehold.it/32x32",
+    "name": "Edith Rollins",
+    "gender": "female",
+    "email": "edithrollins@amtap.com",
+    "phone": "+1 (940) 479-3329",
+    "address": "733 Bergen Court, Curtice, Iowa, 1585"
+  },
+  {
+    "_id": "5c4fd4f3b753a95783a2f1e2",
+    "picture": "http://placehold.it/32x32",
+    "name": "Morton Abbott",
+    "gender": "male",
+    "email": "mortonabbott@amtap.com",
+    "phone": "+1 (998) 521-2931",
+    "address": "210 Oxford Walk, Collins, Hawaii, 7716"
+  },
+  {
+    "_id": "5c4fd4f35a9fe6cdce6215b1",
+    "picture": "http://placehold.it/32x32",
+    "name": "Mckinney Pace",
+    "gender": "male",
+    "email": "mckinneypace@amtap.com",
+    "phone": "+1 (941) 431-2409",
+    "address": "988 Crown Street, Boykin, Utah, 5897"
+  },
+]
